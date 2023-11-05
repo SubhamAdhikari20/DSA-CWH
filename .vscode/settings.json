@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "algorithm": "c",
+        "array": "c",
+        "string": "c",
+        "random": "c",
+        "vector": "c",
+        "stdlib.h": "c",
+        "initializer_list": "c",
+        "utility": "c"
+    }
+}

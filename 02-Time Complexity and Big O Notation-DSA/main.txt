@@ -1,0 +1,3 @@
+Time Complexity:
+-Study of efficiency of algorithms
+-How time taken for the execution of algorithms is affected by the increase in size of the input

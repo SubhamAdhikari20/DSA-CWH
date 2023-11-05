@@ -1,0 +1,12 @@
+Asymtotic Notation: gives an idea about how good is one algorithm compared to the other
+
+1. Big Oh Notation (O)
+- A function f(n) is said to be O(g(n)), if there exists positive constant "c" and "n_o" such that: 0 <= f(n) <= c*g(n) for all n >= n_o 
+
+
+2. Big Omega Notation (Ω)       (Ω = Alt + 234)
+- A function f(n) is said to be Ω(g(n)), if there exists positive constant "c" and "n_o" such that: 0 <= c*g(n) <= f(n)   for all n >= n_o 
+
+3. Big Theta Notation (Θ)       (Θ = Alt + 233)
+- A function f(n) is said to be Θ(g(n)), if there exists positive constant "c" and "n_o" such that: 0 <= c*g(n) <= f(n)   for all n >= n_o 
+      0 <= f(n) <= c*g(n) for all n >= n_o 
